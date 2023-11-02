@@ -1,8 +1,5 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif)]
-
 <h1 align="center">Hi 👋, I'm David Okeregwu</h1>
 <h3 align="center">A passionate frontend web developer from Nigeria</h3>
-<img allign="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sTjZAzw4z8A470vJ6yK4gy9AdyFuQwRRgA&usqp=CAU" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidudo2005&label=Profile%20views&color=0e75b6&style=flat" alt="davidudo2005" /> </p>
 
@@ -27,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidudo2005&show_icons=true&locale=en" alt="davidudo2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidudo2005&" alt="davidudo2005" /></p>
+
