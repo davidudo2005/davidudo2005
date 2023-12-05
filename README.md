@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidudo2005&label=Profile%20views&color=0e75b6&style=flat" alt="davidudo2005" /> </p>
 
-- 🔭 I’m currently working on **CodSoft Internship task**
+- 🔭 I’m currently working on **Bharat Inter and CodeClause Internship task**
 
 - 🌱 I’m currently learning **Web Development**
 
